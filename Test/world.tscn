@@ -33,4 +33,4 @@ color = Color(0.43529412, 1, 0, 1)
 shape = SubResource("RectangleShape2D_0yspo")
 
 [node name="Player" parent="." instance=ExtResource("1_mgkq3")]
-position = Vector2(92, 390)
+position = Vector2(94, 388)
