@@ -49,7 +49,7 @@ label_settings = SubResource("LabelSettings_rakkf")
 
 [node name="Camera" type="Camera2D" parent="."]
 position_smoothing_enabled = true
-position_smoothing_speed = 1.0
+position_smoothing_speed = 7.5
 
 [node name="FSMController" type="Node" parent="."]
 script = ExtResource("2_rakkf")
