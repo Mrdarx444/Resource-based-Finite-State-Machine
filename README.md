@@ -1,3 +1,4 @@
+# DEVELOPER: *Boualleg Kaissar*
 # Resource-based Finite State Machine — Full Reference (Code)
 
 > **الغرض من هذا الملف**
